@@ -135,6 +135,17 @@ B
 
 <img width="1013" alt="Screenshot 2023-07-06 at 10 03 57 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/dfdf3418-8f9e-4a97-883d-42521eaa7f78">
 
+<hr>
+
+
+- Copy private IP from DC-1 then go client - 1 VM
+- Open command prompt
+- Inside the Command Prompt, type "ping -t {DC-01 Private IP Address}"
+- This confirms if the Client VM can see the Domain Controller VM successfully
+
+<hr>
+
+<img width="1106" alt="Screenshot 2023-07-06 at 10 19 19 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/406bab07-86f2-41bb-8d2e-0d419606fe71">
 
 
 
