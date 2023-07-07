@@ -164,12 +164,17 @@ Install active directory on DC.
 - Restart and then log back into DC-1 as user: mydomain.com\labuser
 
 <hr>
+<img width="1091" alt="Screenshot 2023-07-07 at 11 06 55 AM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/e0dcef86-b556-48b1-9532-edb98b90e4e4">
 
+<hr>
 
+<img width="1328" alt="Screenshot 2023-07-07 at 11 14 08 AM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/504ee60c-ea2f-47fe-81d4-b06d00be8b23">
 
+<hr>
 
+<img width="1459" alt="Screenshot 2023-07-07 at 11 14 43 AM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/b8bd142e-1d87-42ed-a106-44dfbff0729d">
 
-
+<hr>
 
 
 
