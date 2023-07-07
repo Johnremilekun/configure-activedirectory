@@ -50,5 +50,5 @@ Set up resources in Azure:
 
 
 <p align="center">
-<img src="https://imgur.com/yIrUIBZ" height="80%" width="80%" alt="Step 1-1"/>
+  <img width="1789" alt="Screenshot 2023-07-06 at 4 10 47 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/a1785795-76d3-48a8-ae7c-43c9433cae90" height="80%" width="80%" alt="Step 1-1"/>
 </p>
