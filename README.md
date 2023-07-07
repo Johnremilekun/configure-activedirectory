@@ -125,8 +125,15 @@ B
 
 <img width="988" alt="Screenshot 2023-07-06 at 9 37 23 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/4878a3bf-098f-454d-b209-c90657cb8c6a">
 
+<hr>
 
+- Open windows firewall - advanced settings in client -1
+- Click "Inbound Rules" (on the left sidebar). Find the two names "Core Networking Diagnostics - ICMP Echo Request (ICMPv4-In)"
+- Select them both, right click then click "Enable Rule"
 
+  
+
+<img width="1013" alt="Screenshot 2023-07-06 at 10 03 57 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/dfdf3418-8f9e-4a97-883d-42521eaa7f78">
 
 
 
