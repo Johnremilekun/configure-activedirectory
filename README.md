@@ -35,4 +35,20 @@ Ensure network connectivity between both VM’s
 - Configure Remote Desktop for non-admin users on the client VM 
 - create additional users, and test logging in with those newly created accounts.
 
+<h2>Step Process</h2>
 
+<h3>&#9312; Create a Domain Controller VM</h3>
+
+Step 1 - Create a virtual machine in Azure 
+
+Set up resources in Azure:
+- Create a domain controller VM named "DC-1" using Windows Server 2022, noting the associated resource group and virtual network (VNet).
+- Configure the domain controller's NIC with a static private IP address.
+- Create a client VM named "Client-1":
+- Use the same resource group and VNet from Step 1.
+- Ensure both VMs are in the same VNet (verify with Network Watcher).
+
+
+<p align="center">
+<img src="https://imgur.com/yIrUIBZ" height="80%" width="80%" alt="Step 1-1"/>
+</p>
