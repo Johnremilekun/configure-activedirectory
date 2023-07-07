@@ -152,6 +152,18 @@ B
 
 <h3>&#9314; Install Active Directory Domain Services within Domain Controller VM</h3>
 
+<hr>
+
+
+Install active directory on DC.
+
+- Open server manager click on add roles and Follow the insulation process by clicking next and check "Active Directory Domain Services",when you reach server roles Tab
+
+- Setup a new forest as mydomain.com (can be anything, just remember what it is)
+
+- Restart and then log back into DC-1 as user: mydomain.com\labuser
+
+<hr>
 
 
 
