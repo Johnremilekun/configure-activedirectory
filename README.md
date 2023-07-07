@@ -50,5 +50,55 @@ Set up resources in Azure:
 
 
 <p align="center">
-  <img width="1789" alt="Screenshot 2023-07-06 at 4 10 47 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/a1785795-76d3-48a8-ae7c-43c9433cae90" height="80%" width="80%" alt="Step 1-1"/>
-</p>
+<img width="1000" alt="Screenshot 2023-07-06 at 4 10 47 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/a1785795-76d3-48a8-ae7c-43c9433cae90" height="80%" width="80%" alt="Step 1-1"/>
+  
+<img width="1904" alt="Screenshot 2023-07-06 at 4 14 41 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/e1967498-bba6-4757-9ccc-88a10eccd66d">
+  
+<img width="1909" alt="Screenshot 2023-07-06 at 4 18 13 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/16fca467-32db-4c10-9cdb-fe258eeb72c3">
+
+<img width="1010" alt="Screenshot 2023-07-06 at 4 30 25 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/2d4eb255-443c-47c4-a423-4238cc065f4e">
+
+<img width="882" alt="Screenshot 2023-07-06 at 4 35 02 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/b1a8a44e-f98b-45d1-87c8-760befc62229">
+
+<img width="999" alt="Screenshot 2023-07-06 at 4 35 54 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/fa69c7ce-4b5e-45a9-9c89-5d8ebd43889f">
+
+<img width="980" alt="Screenshot 2023-07-06 at 4 42 04 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/ec275f3e-8372-4f7d-8afe-d0f51b32973e">
+
+<img width="1305" alt="Screenshot 2023-07-06 at 4 50 51 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/dba81e06-12f3-4a6d-adfb-5cd4db71a860">
+
+<img width="1413" alt="Screenshot 2023-07-06 at 4 51 44 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/2bd4331a-c1ba-4f5b-93dc-eb96d7da6d65">
+
+<img width="1412" alt="Screenshot 2023-07-06 at 4 52 44 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/29e4a361-c2cb-40e8-9151-3b1918c8a3e9">
+
+<img width="1414" alt="Screenshot 2023-07-06 at 4 53 41 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/81ee248d-dc2c-4571-b85d-a9882740399f">
+
+<img width="1417" alt="Screenshot 2023-07-06 at 4 54 31 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/f7856101-a8a3-4b7f-90ef-825bd3f44ce6">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
