@@ -176,9 +176,17 @@ Install active directory on DC.
 
 <hr>
 
+<h3>&#9314; Create an Admin and Normal User Account in AD VM</h3>
 
+<hr>
 
+- On the Domain Controller VM, in Server Manager, click on "Tools" on the top-right header. Click "Active Directory Users and Computers".
+- In Active Directory Users and Computers (ADUC), create an "Employees" Organizational Unit (OU) and an "_ADMINS" OU.
+- Create a new user account named "Jane Doe" with the username "jane_admin" and the same password.
+- Add "jane_admin" to the "Domain Admins" Security Group.
+- Logout/close the Remote Desktop connection to "DC-1" and log back in as "mydomain.com\jane_admin".
 
+<hr>
 
 
 
