@@ -216,13 +216,15 @@ Install active directory on DC.
 
 <hr>
 
+<h3>&#9317; Setup Remote Desktop for non-administrative users on Client-1 VM</h3>
 
+<hr>
 
+- Log in to "Client-1" as "mydomain.com\jane_admin" and open system properties.
+- Click on "Remote Desktop" and allow access for "domain users" to remote desktop.
+- Non-administrative users can now log into "Client-1" using Remote Desktop.
 
-
-
-
-
+<hr>
 
 
 
