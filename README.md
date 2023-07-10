@@ -176,7 +176,7 @@ Install active directory on DC.
 
 <hr>
 
-<h3>&#9314; Create an Admin and Normal User Account in AD VM</h3>
+<h3>&#9315; Create an Admin and Normal User Account in AD VM</h3>
 
 <hr>
 
@@ -196,10 +196,16 @@ Install active directory on DC.
 
 <hr>
 
+<h3>&#9316; join "Client-1" to the domain "mydomain.com" VM</h3>
 
+<hr>
 
+- Configure "Client-1's" DNS settings in the Azure Portal to use the private IP address of the domain controller (DC).
+- Restart "Client-1" from the Azure Portal.
+- Remote Desktop into "Client-1" as the original local admin (labuser) and join it to the domain (a restart will be required).
+- Remote Desktop into the Domain Controller and verify that "Client-1" appears in the "Computers" container within Active Directory Users and Computers (ADUC) at the root of the domain.
 
-
+<hr>
 
 
 
