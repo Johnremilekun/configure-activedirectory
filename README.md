@@ -207,8 +207,9 @@ Install active directory on DC.
 
 <hr>
 
+<img width="1177" alt="Screenshot 2023-07-10 at 11 35 30 AM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/9fb7e11c-0297-4e2b-ab88-cef309c9dd7e">
 
-
+<hr>
 
 
 
