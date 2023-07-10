@@ -230,6 +230,31 @@ Install active directory on DC.
 
 <hr>
 
+<h3>&#9316; Create additional users and attempt to log into client-1 with one of the users VM</h3>
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
