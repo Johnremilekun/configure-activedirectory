@@ -192,5 +192,34 @@ Install active directory on DC.
 
 <hr>
 
+<img width="1064" alt="Screenshot 2023-07-10 at 10 56 25 AM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/fc14fccf-35a8-4f0c-b557-634ca3390023">
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
