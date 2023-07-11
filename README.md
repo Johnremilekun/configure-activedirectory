@@ -241,12 +241,15 @@ Install active directory on DC.
 - Once the script completes, open Active Directory Users and Computers (ADUC) and verify the presence of the accounts in the appropriate Organizational Unit (OU).
 - Attempt to log into "Client-1" using one of the created accounts, making a note of the password provided in the script.
 
+<hr>
 
+<img width="1234" alt="Screenshot 2023-07-10 at 5 08 33 PM" src="https://github.com/Johnremilekun/configure-activedirectory/assets/30168186/709ee73d-80eb-4ba4-b1b6-5bb6eba001dd">
 
+<hr>
 
+<h3> DONE </h3>
 
-
-
+<hr>
 
 
 
